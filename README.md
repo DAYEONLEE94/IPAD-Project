@@ -1,4 +1,4 @@
-IPAD Project - 신도시의 성공적인 병·의원 개원을 위한 입지분석 서비스
+## IPAD Project - 신도시의 성공적인 병·의원 개원을 위한 입지분석 서비스<br>
 1차 Project - UI (feat.  HTML/CSS/JavaScript/Bootstrap) <br>
 2차 Project - MVC 패턴 (feat. Servlet/JSP)
 
